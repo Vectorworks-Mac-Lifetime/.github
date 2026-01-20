@@ -67,7 +67,7 @@ Over time, <a href="#">Vectorworks</a> becomes a dependable part of the Mac envi
 ## Screenshots
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/284384/m/vectorworks-screenshot.png?v=1605813988" width="824" alt="Vectorworks screenshot"/>
+  <img src="https://static.filehorse.com/screenshots-mac//photo-and-design/vectorworks-mac-screenshot-01.png" width="824" alt="Vectorworks screenshot"/>
 </p>
 
 ---
